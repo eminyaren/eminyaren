@@ -1,0 +1,81 @@
+<!-- A partial to be overwritten by the user.
+     Its content will appear before the closing </head>-tag -->
+
+<!-- Custom CSS via inline styles
+     You may use this template to add custom CSS to your site like so: -->
+
+ <style>
+     /* Links */
+     a {color: #0C191C; }
+     a:hover {
+         color: #77AF9C;
+     }
+
+     /* Header Buttons on Startpage */
+     a.btn {
+         color: white;
+          background-color: #004455;
+     }
+     a.btn:hover {
+          background-color: #77AF9C;
+     }
+
+     /* Scroll Menu on Startpage */
+     a.fn-item.active {
+          color: #77AF9C;
+     }
+     a.fn-item:hover {
+          color: #77AF9C;
+     }
+
+     /* Content / Sections */
+     .post-holder.odd {
+          background: #004455;
+          color: white;
+     }
+     .post-holder {
+          background: #f2efe8;
+     }
+     body {
+          color: #3A4145;
+     }
+
+     /* Footer */
+     .site-footer {
+          color: #BBC7CC;
+          background-color: #004455;
+     }
+</style>
+
+<!-- Custom CSS via "custom.css"-file
+     If you would rather place your custom CSS into
+     a separate file, create a "custom.css" in your
+     local "static/css"-directory. Then add a <link>-tag
+     referencing your "custom.css" like so: -->
+
+<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+
+<!-- Custom CSS: Color Codes
+     You may checkout https://htmlcolorcodes.com/ to get those
+     weird color codes (like "#22343A") ;-). -->
+
+<!-- Custom link-tags for different icons
+     Generated via https://favicon.io/favicon-generator/ -->
+
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ "static/images/apple-touch-icon.png"}}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ "static/images/favicon-32x32.png"}}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "static/images/favicon-16x16.png"}}"
+/>
