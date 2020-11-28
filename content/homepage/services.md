@@ -15,7 +15,7 @@ That is the important part, right? You want to know what I can do for you.
 
 From video shooting to editing, editing to animation, we serve all solutions at once for your needs.
 
-![Nice picture to make you pay me ;-)](static/images/video.jpg)
+![Nice picture](static/images/video.jpg)
 
 Ne kadar harika değil mi? / That was nice, right?
 
@@ -33,10 +33,16 @@ We use Blender 3D for your 3D needs.
 
 ![Let us get started on a clean slate](static/images/blender.png)
 
+{{< youtube o_gzxA7ceRo >}}
+> Logo animasyonu / Logo Animation
+
+{{< youtube b6AQ-GJ18Nc >}}
+> 3D modelleme / 3D Modelling
+
 
 ---
 
 Şimdiye kadar neler yaptık bilmek istermisiniz? /
 What we have made since first day, do you want to know?
 
-[Referanslarımızı](services) görün. / Check out our [References](services)
+# [Referanslarımızı](services) görün. / Check out our [References](services)
