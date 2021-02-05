@@ -31,10 +31,6 @@ title: "Referanslarımız / References"
 * Kurgu - Animasyon / Editing - Animation : Emin Yaren
 {{< youtube ODhp4aJyR8Q >}}
 
-**Schneider SM6 Ürün Tanıtımı / Schneider SM6 Product**
-* Yapımcı / Producer : Nice Prodüksiyon
-* Kurgu - Animasyon / Editing - Animation : Emin Yaren
-{{< youtube 4U-87dstktA >}}
 
 **Hecatomb Video Klip / Hecatomb Official Video**
 * Yönetmen / Director : Ulaş Işıklar
