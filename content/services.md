@@ -2,6 +2,12 @@
 title: "Referanslarımız / References"
 ---
 
+**EİB Tanıtım Filmi / EIB Introduction Film**
+* Yapımcı / Producer : Nice Produksiyon
+* Kurgu - Animasyon / Editing - Animation : Emin Yaren
+{{< youtube PPYILZiUOfY >}}
+
+
 **Schneider Sunum Filmi / Schneider Presentation Film**
 * Yapımcı / Producer : Nice Prodüksiyon
 * Kurgu - Animasyon / Editing - Animation : Emin Yaren
