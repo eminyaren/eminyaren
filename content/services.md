@@ -2,6 +2,10 @@
 title: "Referanslarımız / References"
 ---
 
+**ASAŞ Ürün Tanıtımı
+* Kurgu - Animasyon / Editing - Animation : Emin Yaren
+{{< youtube CgfTcrv4tGI >}}
+
 **EİB Tanıtım Filmi / EIB Introduction Film**
 * Yapımcı / Producer : Nice Produksiyon
 * Kurgu - Animasyon / Editing - Animation : Emin Yaren
