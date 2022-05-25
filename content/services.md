@@ -1,6 +1,9 @@
 ---
 title: "Referanslarımız / References"
 ---
+**Dikkan Kelebek Vana / Dikkan Butterfly Valve
+* Kurgu - Animasyon / Editing - Animation : Emin Yaren
+{{< youtube woNoa0qLbNg >}}
 
 **ASAŞ Ürün Tanıtımı
 * Kurgu - Animasyon / Editing - Animation : Emin Yaren
